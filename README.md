@@ -6,12 +6,12 @@ locations, organizations, etc. Named entity recognition is not only a tool for i
 but it also a preprocessing step for many NLP applications like machine translation, question answering, 
 and text summarization.
 
-Essential info about tagged entities:
-geo = Geographical Entity
-org = Organization
-per = Person
-gpe = Geopolitical Entity
-tim = Time indicator
-art = Artifact
-eve = Event
+Tagged entities:\
+geo = Geographical Entity\
+org = Organization\
+per = Person\
+gpe = Geopolitical Entity\
+tim = Time indicator\
+art = Artifact\
+eve = Event\
 nat = Natural Phenomenon
