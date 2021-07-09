@@ -15,3 +15,6 @@ tim = Time indicator\
 art = Artifact\
 eve = Event\
 nat = Natural Phenomenon
+
+Link to Dataset - https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus?select=ner_dataset.csv \
+Achieved 98.5% accuracy
